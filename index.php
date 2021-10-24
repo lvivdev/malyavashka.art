@@ -15,7 +15,7 @@
     <div class="container">
       <h3>Offers</h3>
       <div class="d-flex flex-wrap">
-        <?php for ($i=0; $i < 5; $i++):
+        <?php for ($i=0; $i < 4; $i++):
           ?>
           <div class="card mb-4 shadow-sm">
             <div class="card-header">
